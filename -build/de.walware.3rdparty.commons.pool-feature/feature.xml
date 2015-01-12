@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="de.walware.3rdparty.commons.pool"
+      label="Apache Commons Pool"
+      version="2.3.0.qualifier"
+      provider-name="WalWare.de"
+      license-feature="de.walware.opensource.license"
+      license-feature-version="1.0.0">
+
+   <description url="http://commons.apache.org/">
+      Apache Commons Pool, object pooling library by the Apache Software Foundation.
+   </description>
+
+   <copyright>
+      Copyright (c) 2015 The Apache Software Foundation and others. All rights reserved.
+   </copyright>
+
+   <license url="%license_url">
+      %license_text
+   </license>
+
+   <plugin
+         id="org.apache.commons.pool"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

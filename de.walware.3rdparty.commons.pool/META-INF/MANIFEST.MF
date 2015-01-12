@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.apache.commons.pool
+Bundle-Version: 2.3.0.qualifier
+Bundle-Vendor: WalWare.de
+Bundle-Name: Apache Commons Pool
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
