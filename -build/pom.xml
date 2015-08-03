@@ -6,7 +6,7 @@
 	
 	<groupId>de.walware.3rdparty</groupId>
 	<artifactId>3rdparty-commons.pool</artifactId>
-	<version>2.3-SNAPSHOT</version>
+	<version>2.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>3rdParty Apache Commons Pool</name>
 	
